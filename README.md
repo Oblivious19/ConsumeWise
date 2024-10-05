@@ -64,7 +64,7 @@
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/your-username/consumwise.git
+   git clone https://github.com/Oblivious19/ConsumeWise.git
    \`\`\`
    
 2. Navigate to the project folder:
@@ -133,4 +133,4 @@ This project is licensed under the MIT License.
 ---
 
 ## **Contact**
-For questions or suggestions, reach out at: [your-email@example.com](mailto:your-email@example.com).
+For questions or suggestions, reach out at: [Shreya Ojha](shreyaojha2@gmail.com).
