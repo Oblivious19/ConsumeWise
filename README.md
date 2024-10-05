@@ -34,7 +34,6 @@
 - **Databases**: MongoDB, PostgreSQL
 - **Cloud Hosting**: AWS / Google Cloud
 - **External APIs**: Open Food Facts, Barcode Lookup API
-- **Security**: OAuth 2.0, JWT, SSL/TLS Encryption
 
 ---
 
@@ -69,7 +68,7 @@
    
 2. Navigate to the project folder:
    \`\`\`bash
-   cd consumwise
+   cd ConsumeWise
    \`\`\`
 
 3. Install dependencies for both frontend and backend:
